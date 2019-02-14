@@ -1,0 +1,8 @@
+.data {
+    margin: 25px 20%;
+}
+.data p {
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}

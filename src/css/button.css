@@ -1,0 +1,12 @@
+button {
+    background-color: black;
+    border: 1px solid;
+    color: yellow;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin: 5px auto 20px;
+    display: block;
+    font-weight: bold;
+    cursor: pointer;
+}

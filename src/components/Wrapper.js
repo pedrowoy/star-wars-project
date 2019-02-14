@@ -3,7 +3,7 @@ import Header from './Header';
 import PlanetData from './PlanetData';
 import FilmData from './FilmData';
 import Button from './Button';
-
+import '../css/wrapper.css';
 
 const minValue = Math.ceil(1);
 const maxValue = Math.floor(61);

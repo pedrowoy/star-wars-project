@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import '../css/planetData.css';
 
 class PlanetData extends Component {
     formatPopulation() {

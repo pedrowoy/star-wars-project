@@ -1,0 +1,13 @@
+.filmData {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.filmCount {
+    font-family: 'cicle', sans-serif;
+    color: yellow;
+    font-size: 42px;
+    padding: 0 5px;
+}
